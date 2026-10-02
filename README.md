@@ -2,20 +2,6 @@
 
 This repository contains a collection of deep learning projects that explore fundamental and advanced concepts in neural networks. The projects cover a range of topics, from the theoretical limits of simple classifiers to the practical application of regularization techniques for complex computer vision tasks.
 
----
-
-## Table of Contents
-
-1.  [The Perceptron: Foundations and Limitations](#1-the-perceptron-foundations-and-limitations)
-    -   [Perceptron Demo: A Practical Application](#perceptron-demo-a-practical-application)
-    -   [The Problem with the Perceptron: The XOR Gate](#the-problem-with-the-perceptron-the-xor-gate)
-2.  [Fine-Grained Visual Classification with Regularization](#2-fine-grained-visual-classification-with-regularization)
-    -   [Project Overview](#project-overview)
-    -   [Methodology](#methodology)
-    -   [Results and Analysis](#results-and-analysis)
-    -   [Conclusion](#conclusion)
-3.  [Repository Structure](#3-repository-structure)
-4.  [How to Use](#4-how-to-use)
 
 ---
 
